@@ -504,11 +504,6 @@ source-map@^0.5.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
   integrity sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=
 
-stitches@^1.2.11:
-  version "1.2.11"
-  resolved "https://registry.yarnpkg.com/stitches/-/stitches-1.2.11.tgz#ca22353ea3f2eea03fa8f025c4f1fa95e01d59cb"
-  integrity sha1-yiI1PqPy7qA/qPAlxPH6leAdWcs=
-
 supports-color@^5.3.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"

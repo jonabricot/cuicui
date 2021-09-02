@@ -54,6 +54,7 @@ export const {
       huge: '5rem',
     },
     fontSizes: {
+      root: '16px',
       tiny: '.25rem',
       small: '.5rem',
       normal: '1rem',
