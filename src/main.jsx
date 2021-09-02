@@ -1,6 +1,18 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './App'
+import { globalCss } from '/stitches.config'
+
+const globalStyles = globalCss({
+  '*': { margin: 0, padding: 0 },
+  body: {
+    fontFamily: '$normal',
+    backgroundColor: '$background',
+    color: '$text'
+  }
+});
+
+globalStyles()
 
 ReactDOM.render(
   <React.StrictMode>
