@@ -34,6 +34,7 @@ export const {
       ...nordColors,
       background: nordColors.nord0,
       foreground: nordColors.nord1,
+      active: nordColors.nord2,
       text: nordColors.nord6,
       
       danger: nordColors.nord11,
@@ -63,10 +64,22 @@ export const {
       big: '3rem',
       huge: '5rem',
     },
+    sizes: {
+      tiny: '.25rem',
+      small: '.5rem',
+      normal: '1rem',
+      medium: '1.5rem',
+      large: '2rem',
+      big: '3rem',
+      huge: '5rem',
+    },
     fonts: {
       normal: 'Untitled Sans, apple-system, sans-serif',
       mono: 'Söhne Mono, menlo, monospace',
     },
+    radii: {
+      normal: '.25rem'
+    }
   },
   media: {
     bp1: '(min-width: 480px)',
